@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+}
+
+.title {
+  font-size: x-large;
+}
+
+.container-home {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
